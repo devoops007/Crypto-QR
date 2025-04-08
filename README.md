@@ -1,5 +1,5 @@
 # Crypto QR code
-Cryptocurrency QR code generator. Ultimate solution for creating QR codes for a crypto transactions. The platform allows to create a QR codes for Bitcoin, Ethereum, Ripple and other popular cryptocurrencies in just a few clicks.
+Cryptocurrency QR code generator. Ultimate solution for creating QR codes for a crypto transactions. The platform allows everyone to create a QR codes for Bitcoin, Ethereum, Ripple and other popular cryptocurrencies in just a few clicks. Also supports Toncoin, Solana, Dogecoin, Binance coin (BTC, ETH, XRP, BNB, TRX, TON, DOGE, SOL).
 
 ## Description
 
@@ -9,18 +9,18 @@ This project was developed to help users quickly generate QR codes without the n
 
 ## Key Features
 
-- **Generate QR** codes.
-- Generate a **QR code** based on the wallet address.
+- **Generate a QR** codes.
+- Option to set a custom payment amount.
 - Easy to use: generate QR directly in your browser.
 
 ## How to Use
 
-1. Go to the QR generator page.
+1. Go to the [**QR Generator**](https://crypto-qr-code.net) page.
 2. Enter the required wallet address.
 3. Optionally enter the crypto amount.
 4. Click the **Generate QR code**.
 5. Image will be generated in just a few moments.
-6. Save the image for future usage, you scan it directly from the other device.
+6. Save the image for future usage, or scan it directly from the other device to make a payment.
 
 ## Technologies
 
@@ -29,4 +29,4 @@ This project was developed to help users quickly generate QR codes without the n
 
 ## Get started now!
 
-[**Crypto QR CODE Generator**](https://crypto-qr-code.net)
+[**Crypto QR code Generator**](https://crypto-qr-code.net)
